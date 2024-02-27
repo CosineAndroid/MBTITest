@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LottoGenerator"
+rootProject.name = "MBTITest"
 include(":app")
  
